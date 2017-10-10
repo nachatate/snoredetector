@@ -1,1 +1,1 @@
-# snoreDetector
+# SnoreDetector
